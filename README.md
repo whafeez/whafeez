@@ -1,6 +1,6 @@
 ### Welcome 👋
 
-![alt text](https://github.com/[whafeez]/[whafeez]/images/[main]/whafeez.png?raw=true)
+![alt text](https://github.com/whafeez/whafeez/blob/main/images/waqas.png)
 
 I am from Lahore, Pakistan. Working in Dubai UAE at Almosafer (Part of Seera Group). Having over 8+ years of experience with PHP(Larvel,Symphony) and 1+ Years with Python(Django).
 - 🔭 I’m currently working on Laravel, Lumen, php and python
